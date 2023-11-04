@@ -1,20 +1,27 @@
-# Natan Barbosa
-## Programmer | Developer
+<div align="center">
+  <h1>Natan Barbosa</h1>
+  <h2>Passionate Programmer | Skilled Developer</h2>
+</div>
 
-Welcome to my GitHub profile! I'm a passionate Developer based in Brazil. Experienced Java Spring Boot developer with a strong API background, ready to bring your projects to life
+<div align="center">
+  <p>👋 Welcome to my GitHub profile! I'm Natan Barbosa, a dedicated Developer based in beautiful Brazil. With expertise in Java Spring Boot and a strong API background, I'm here to turn your projects into masterpieces.</p>
+</div>
+
+### About Me
 
 - 🌎 Located in Brazil
-- ✉️ Contact me at: ns5933988@gmail.com
+- ✉️ Feel free to contact me: ns5933988@gmail.com
 - 💼 Explore my portfolio: [Portfolio](https://github.com/natanb-dev)
-- 🌱 Currently expanding my knowledge in Java and Python 
-- 💻 Open to collaborations on web development projects and UI/UX designs
-- ⚡ Coding is both my profession and my favorite hobby.
+- 🌱 Currently, I'm broadening my horizons with Java and Python.
+- 💻 Open to collaborative opportunities in web development projects and UI/UX designs.
+- ⚡ Coding is not just my profession, it's my passion.
 
-**Skills**
-- Python | Java
-- HTML5 | CSS | JavaScript
-- React | Node.js
-- Git | Visual Studio Code | Intellij
-- UI/UX Design
+### Skills
 
-Let's create something amazing together!
+- Languages: Python | Java
+- Web Technologies: HTML5 | CSS | JavaScript
+- Frameworks: React | Node.js | Spring Boot
+- Tools: Git | Visual Studio Code | IntelliJ IDEA
+- UI/UX Design: Turning ideas into stunning user experiences.
+
+Let's collaborate and craft something extraordinary together!
