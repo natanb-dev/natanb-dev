@@ -25,7 +25,6 @@
 - 🎨 **UI/UX Design:** Transforming ideas into stunning user experiences.
 
 ### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/natan-barbosa-dev) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-barbosa-dev//)
 
 Let's collaborate and craft something extraordinary together!
